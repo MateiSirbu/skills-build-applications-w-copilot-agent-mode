@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-xd2pyx244dri!$to2ah7co=h+(++kwb0w=dme+sno5*r)^bmd*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'friendly-carnival-gxj974w9x993g67-8000.app.github.dev']
 
 
 # Application definition
